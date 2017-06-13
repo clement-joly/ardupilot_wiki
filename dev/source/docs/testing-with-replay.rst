@@ -65,8 +65,7 @@ Use mavgraph.py to graph the data
     mavgraph.py MyLogFile.BIN GPA.SAcc NKF4.SV
 
 
-.. image:: ../_images/Replay_GPSSAcc_NKF4SV.png
-
+.. image:: ../images/Replay_GPSSAcc_NKF4SV.png
     :target: ../_images/Replay_GPSSAcc_NKF4SV.png
 
 This example graphs the speed innovation of the EKF against the GPS speed measurement accuracy
