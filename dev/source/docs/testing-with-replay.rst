@@ -64,7 +64,7 @@ Use mavgraph.py to graph the data
 
     mavgraph.py MyLogFile.BIN GPA.SAcc NKF4.SV
 
-.. image:: ../images/Replay_GPSSAcc_NKF4SV.png
+.. image:: ../_images/Replay_GPSSAcc_NKF4SV.png
 
     :target: ../_images/Replay_GPSSAcc_NKF4SV.png
 
